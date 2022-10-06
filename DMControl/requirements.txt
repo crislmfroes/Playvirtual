@@ -7,7 +7,7 @@ wandb==0.10.14
 hydra-core
 termcolor
 mujoco_py
-git+git://github.com/deepmind/dm_control.git
+dm_control
 git+git://github.com/1nadequacy/dmc2gym.git
 tb-nightly
 imageio
