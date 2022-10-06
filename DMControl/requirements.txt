@@ -8,7 +8,7 @@ hydra-core
 termcolor
 mujoco_py
 dm_control
-git+git://github.com/1nadequacy/dmc2gym.git
+git+git://github.com/denisyarats/dmc2gym.git
 tb-nightly
 imageio
 imageio-ffmpeg
